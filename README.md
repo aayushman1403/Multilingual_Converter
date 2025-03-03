@@ -5,7 +5,7 @@ Features:
 
 1)Real-time webpage translation
 
-)Works on all websites, including localhost
+2)Works on all websites, including localhost
 
 3)Preserves webpage structure (only text is translated)
 

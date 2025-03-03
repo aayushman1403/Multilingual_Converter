@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCsNiCTginoz41T39rvyadDsMuii8uv6V0"; // Replace with your actual API key
+const API_KEY = "MaiNahiDungaAPIKey"; // Replace with your actual API key
 
 chrome.runtime.onInstalled.addListener(() => {
     console.log("Extension Installed and Ready");

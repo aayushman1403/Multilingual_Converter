@@ -15,4 +15,16 @@ Features
 
 5)Lightweight and fast
 
+Installation
 
+Clone the repository:
+
+git clone https://github.com/aayushman1403/Multilingual_converter-.git
+
+Open Google Chrome and navigate to chrome://extensions/.
+
+Enable Developer Mode (top-right corner).
+
+Click Load Unpacked and select the project folder.
+
+The extension is now installed and ready to use.

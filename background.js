@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyBks2CPbqnw_Eg1kbCP94xPqTtn0dojaMg"; // Replace with your actual API key
+const API_KEY = "ApnaKhudkaAPIKeyUseKaro"; // Replace with your actual API key
 
 chrome.runtime.onInstalled.addListener(() => {
     console.log("Extension Installed and Ready");

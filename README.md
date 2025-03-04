@@ -2,8 +2,6 @@
 
 The **Multilingual Converter** is a powerful browser extension designed to **translate entire webpages in real-time** while preserving their original layout and structure. It supports multiple languages and works seamlessly on all websites, including **local development environments**.
 
-> ⚠ **Note:** This extension works best on simple HTML-based websites. Websites with heavy UI, complex styling, or JavaScript-driven content may experience **disorganized layouts** during translation.
-
 ---
 
 ## ✨ Features  
